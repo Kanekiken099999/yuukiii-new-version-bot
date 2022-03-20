@@ -32,7 +32,7 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist", "प्लेलिस्ट-हट�
 
 # Tools
 QUEUE_COMMAND : ["queue", "पंक्ति"]
-SONG_COMMAND : ["song", "video", "गीत", "वीडियो"]
+SONG_COMMAND : ["song", "spotdl", "video", "गीत", "वीडियो"]
 LYRICS_COMMAND : ["lyrics", "बोल"]
 
 
